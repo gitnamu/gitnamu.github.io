@@ -2,7 +2,7 @@
 layout: post
 title: 2020 동계 모각코 계획
 date: 2020-12-18 12:16:23 +0900
-category: 2020 동계 모각코
+category: sample
 ---
 # 모각코 계획
 > 팀장: 조윤희
