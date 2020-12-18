@@ -1,13 +1,36 @@
 ---
 layout: post
-title: post-sample
+title: 2020 동계 모각코 계획
 date: 2020-01-02 19:20:23 +0900
 category: sample
 ---
-# post-sample
-> Hello!
+# 모각코 계획
+> 2020 동계 모각코 계획
 
-This is code
-```ruby
-print 'hello world'
-```
+## 목표)
+백준 알고리즘 문제 풀이
+MLP 온라인 교육 컨텐츠 수강
+
+## 계획
+- 1차)
+Dynamic programming
+
+- 2차)
+그래프(bfs, dfs)
+
+- 3차)
+binary search / ternary search
+
+- 4차)
+분할정복
+
+- 5차)
+greedy
+
+- 6차)
+완전탐색(exhaustive search)
+
+- 7차)
+
+
+- 8차)
