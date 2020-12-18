@@ -8,25 +8,29 @@ category: sample
 > 팀장: 조윤희
 > 팀원: 한승훈, 박지우, 류건열, 김남호
 
+##기간
+2020.12.23(수) ~ 2021.02.16(수) 중 6회 이상
+
 ## 목표
 - 백준 알고리즘 문제 풀이
-- 사용언어 : c++
+  + 사용언어 : c++
+- MLP 온라인 교육 컨텐츠 수강
 
 ## 계획
 - 1차)
-Dynamic programming 문제풀기
+MLP 수강 1시간 수강 + Dynamic programming 문제풀기
 
 - 2차)
-그래프(bfs, dfs) 문제 풀기
+MLP 수강 1시간 수강 + 그래프(bfs, dfs) 문제 풀기
 
 - 3차)
-binary search / ternary search 문제 풀기
+MLP 수강 1시간 수강 + binary search / ternary search 문제 풀기
 
 - 4차)
-분할정복 문제 풀기
+MLP 수강 1시간 수강 + 분할정복 문제 풀기
 
 - 5차)
-greedy 문제 풀기
+MLP 수강 1시간 수강 + greedy 문제 풀기
 
 - 6차)
-완전탐색(exhaustive search) 문제 풀기
+MLP 수강 1시간 수강 + 완전탐색(exhaustive search) 문제 풀기
