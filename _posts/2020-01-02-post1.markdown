@@ -1,36 +1,40 @@
 ---
 layout: post
 title: 2020 동계 모각코 계획
-date: 2020-01-02 19:20:23 +0900
+date: 2020-12-18 12:16:23 +0900
 category: 2020 동계 모각코
 ---
 # 모각코 계획
-> 2020 동계 모각코 계획
+> 팀장: 조윤희
+> 팀원: 한승훈, 박지우, 류건열, 김남호
 
-## 목표)
-백준 알고리즘 문제 풀이
-MLP 온라인 교육 컨텐츠 수강
+## 목표
+1. 백준 알고리즘 문제 풀이
+- 사용언어 : c++
+2. MLP 온라인 교육 컨텐츠 수강
+- 인공지능 강의
 
 ## 계획
 - 1차)
-Dynamic programming
+Dynamic programming 문제풀기
 
 - 2차)
-그래프(bfs, dfs)
+그래프(bfs, dfs) 문제 풀기
 
 - 3차)
-binary search / ternary search
+binary search / ternary search 문제 풀기
 
 - 4차)
-분할정복
+분할정복 문제 풀기
 
 - 5차)
-greedy
+greedy 문제 풀기
 
 - 6차)
-완전탐색(exhaustive search)
+완전탐색(exhaustive search) 문제 풀기
 
 - 7차)
-
+MLP 온라인 교육 컨텐츠 수강
 
 - 8차)
+MLP 온라인 교육 컨텐츠 수강
