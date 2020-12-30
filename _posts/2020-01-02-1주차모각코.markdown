@@ -1,0 +1,12 @@
+---
+layout: post
+title: 1주차 모각코
+date: 2020-12-30 20:10:00 +0900
+category: sample
+---
+# 1주차 모각코
+
+# 1주차 - 오늘의 계획
+
++ MLP 수강 1시간 수강
++ Dynamic programming 백준 문제풀기
