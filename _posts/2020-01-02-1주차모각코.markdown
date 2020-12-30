@@ -9,12 +9,16 @@ category: sample
 + MLP 수강 1시간 수강
 + Dynamic programming 백준 문제풀기
 
+
+
 # 회고
 
-+ MLP 수강 1시간 수강 :
+1. MLP 수강 1시간 수강 :
  - B. 인공지능(초급) orientation 짧은 시간동안 수강하였다. (1시간 미만)
 
-+ Dynamic programming 백준 문제풀기 :
+
+
+2. Dynamic programming 백준 문제풀기 :
  - Dynamic programming 문제 중 11052번, 2011번을 시도하였다.
 
  - 11052번은 n개의 카드를 살 때 최대비용을 구하는 문제였다.
