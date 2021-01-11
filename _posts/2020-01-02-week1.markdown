@@ -19,9 +19,9 @@ category: mogakco
 
  - 11052번은 n개의 카드를 살 때 최대비용을 구하는 문제였다.
  문제를 푸는 중에 도저히 접근 자체가 안되서 결국 다른 사람이 올린 인터넷 블로그의 풀이를 보고 이해한 후 코드를 작성하여 해결하였다.
- ![캡처1](/public/img/mogakco1-1.PNG)  
+ ![image](https://user-images.githubusercontent.com/34561570/104177092-97250c00-544b-11eb-8ad0-a959a05a758d.png)
 
  - 2011번은 암호코드의 해석이 나올 수 있는 가지 수를 구하는 문제였다.
  11052번을 답을 보고 풀었기 때문에 이번 문제는 스스로 해결하려고 하였다.
  그 결과 문제에서 주어진 테스트 케이스는 통과하였으나, 다른 경우에서 문제가 발생하여 오답처리가 되었다.
-  ![캡처1](/public/img/mogakco1-2.PNG)
+  ![image](https://user-images.githubusercontent.com/34561570/104177135-a906af00-544b-11eb-9453-71aac455f655.png)
