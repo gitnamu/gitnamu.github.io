@@ -1,22 +1,15 @@
-		<!-- Footer -->
-			<div id="footer-wrapper">
-				<section id="footer" class="container">
-					<div class="row">
-						<div class="12u">
-
-							<!-- Copyright -->
-								<div id="copyright">
-									<ul class="links">
-										<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-										<li>Demo Images: <a href="http://facebook.com/DreametryDoodle">Dreametry Doodle</a></li>
-										<li> Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
-									</ul>
-								</div>
-
-						</div>
-					</div>
-				</section>
-			</div>
-
-	</body>
-</html>
+<footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		{% for link in site.data.footer %}
+      {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+      {% endif %}
+			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/jekyll-theme-skinny-bones/" rel="nofollow">Skinny Bones</a>.</p>
+</footer>
