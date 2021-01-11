@@ -2,7 +2,7 @@
 layout: post
 title: 1주차 모각코
 date: 2020-12-30 20:10:00 +0900
-category: sample
+category: mogakco
 ---
 # 목표
 
