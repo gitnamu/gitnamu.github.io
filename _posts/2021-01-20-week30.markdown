@@ -6,7 +6,19 @@ category: mogakco
 ---
 # 목표
 
-+  MLP 수강 1시간 수강
++ MLP 수강
 + 백준 분할정복 문제 풀기
 
 # 회고
+1. MLP 수강:
+  - Azure 계정을 등록하고 Azure Machine Learing Studio를 다운받았다.
+
+2.
+  - 백준 1992번을 풀이하였다.
+  ![image](https://user-images.githubusercontent.com/34561570/105177100-8b32fb80-5b69-11eb-8bcb-325c5c2bd709.png)
+
+
+
+  주어진 배열을 4분할하여 나누어 범위를 재귀함수로 재귀호출한다.
+  이 과정을 나누어진 범위 내의 숫자가 모두 0 또는 1이 될 때까지 반복한다.  
+![image](https://user-images.githubusercontent.com/34561570/105174790-6ab57200-5b66-11eb-90ad-a33a4527fa97.png)
