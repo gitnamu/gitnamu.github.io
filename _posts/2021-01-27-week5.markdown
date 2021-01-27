@@ -16,12 +16,14 @@ category: mogakco
 2. 백준 문제풀기
   - 먼저, 백준 11047번을 풀이하였다.
 ![image](https://user-images.githubusercontent.com/34561570/106002367-6522d380-60f4-11eb-996c-a603f5ad1d2b.png)
+
   이 문제는 그리디 문제들 중 가장 유명한 문제라고 할 수 있는 문제로서, 동전을 적절히 사용해서 그 가치의 합을 K로 만들려고 할때 필요한 동전 개수의 최솟값을 구하는 문제이다.
 
 ![image](https://user-images.githubusercontent.com/34561570/105177100-8b32fb80-5b69-11eb-8bcb-325c5c2bd709.png)
 
   - 다음으로 10610번을 풀이하였다.
 ![image](https://user-images.githubusercontent.com/34561570/106002479-897eb000-60f4-11eb-8715-be2edeb402c5.png)
+
   이 문제는 입력받은 숫자를 재배열하여 가장 큰 30의 배수를 찾아서, 존재하면 해당 수를 출력하고 존재하지 않으면 -1을  출력하는 문제이다.
 
 ![image](https://user-images.githubusercontent.com/34561570/106001630-88994e80-60f3-11eb-94bf-c5674a58e20e.png)
