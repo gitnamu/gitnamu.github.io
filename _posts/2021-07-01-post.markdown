@@ -1,0 +1,13 @@
+---
+layout: post
+title: 1주차 모각코
+date: 2021-07-01 20:10:00 +0900
+category: mogakco
+---
+# 목표
+
++ open sw dev competition 준비
++ xsd파일에 대한 공부
+
+
+# 회고
