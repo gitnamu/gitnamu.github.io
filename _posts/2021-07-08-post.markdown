@@ -1,27 +1,26 @@
 ---
 layout: post
-title: 2021 하계 모각코 1주차
-date: 2021-07-01 20:00:00 +0900
+title: 2021 하계 모각코 2주차
+date: 2021-07-08 20:00:00 +0900
 category: mogakco
 ---
 # 목표
-
-+ open sw dev competition 준비
-+ xml 스키마(xsd, Xml Schema Definition)에 대한 공부  
++ 개인 프로젝트 계획 짜기
 + MOOC 수강
 
 
 # 회고
-1. open sw dev competition 준비  
-  + 팀원 및 지원 분야 확정  
-  + 지정과제의 매니코어SW에 지원하기로 결정 함  
-  + 매주 월요일에 회의하기로 결정  
+1. 개인 프로젝트 계획 짜기  
+  + 오픈 SW 개발자 대회에서 Electron에 대한 프로젝트를 진행할 예정이기 때문에 Electron을 분석할 겸 이를 이용한 프로젝트를 하기로 하였다.  
+  주제는 첫 토이 프로젝트이기 때문에 간단한 크롤러를 곁들인 스티커 메모로 결정하였다.  
+  예상도는 다음과 같다.  
+  ![image](https://user-images.githubusercontent.com/34561570/124935557-bab6c100-e040-11eb-9fb4-2d017ba15eef.png)  
 
-  2. xsd파일에 대한 공부  
-  +  인턴십을 진행하며 xsd파일을 다루게 되었는데, 이해에 어려움이 있어 따로 공부하게 되었다.  
-  + 데이터 형식을 새로 정의할 때에는 element 태그를 사용한다.  
-  + 사용자 데이터 형식에는 SimpleType과 ComplexType이 있다.  
-  + SimpleType은 Primitive 데이터 형식에서 유도된 타입이며, ComplexType은 다른 요소를 포함하는 데이터 타입이다.  
+  충남대학교 사이버캠퍼스에서 미제출 과제와 미수강 강의를 크롤링하여 표시하고, TODO 메뉴에서는 임의의 메시지를 입력하여 남길 수 있다.  
 
-  3. MOOC 수강  
-  + Coursera에서 Machine Learning (상) 수강신청 및 수강
+  + 이전에 실전코딩 과목에서 Node.js를 설치한 적이 있기 때문에 바로 npm init하여 json파일을 생성하였고 다른 블로그를 참고하여 Main.js파일을 생성하였다.  
+  ![image](https://user-images.githubusercontent.com/34561570/124937918-ca370980-e042-11eb-9c26-1366481cf45a.png)  
+
+2. MOOC 수강  
+  + 개인 프로젝트 계획 짜는데 생각보다 긴 시간이 걸려 수강하지 못하였다.  
+  개인적으로 시간을 들여 공부해야겠다.
